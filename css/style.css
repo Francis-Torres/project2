@@ -1,23 +1,13 @@
 /*CSS for page resume-page1*/
+*resume css
+  */
 
-.center-text {
-    text-align: center;
+.resume-page-background {
+  background-color: #87CEFA;
 }
-#temp {
-  width: 73%;
-  margin: 0 auto 0% auto;
+#resume-template{
+  width: 70%;
+  margin: 0 auto 5% auto;
   padding: 1% 1% 1% 1%;
   background-color: #F5FFFA;
-}
-.bottom-border {
-  border-bottom: 2px solid black;
-}
-.float-left {
-  float: left;
-}
-.float-right {
-  float: right;
-}
-.clear {
-  clear: both;
 }
