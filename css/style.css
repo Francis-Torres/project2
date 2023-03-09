@@ -1,1 +1,23 @@
-.
+/*CSS for page resume-page1*/
+
+.center-text {
+    text-align: center;
+}
+#temp {
+  width: 73%;
+  margin: 0 auto 0% auto;
+  padding: 1% 1% 1% 1%;
+  background-color: #F5FFFA;
+}
+.bottom-border {
+  border-bottom: 2px solid black;
+}
+.float-left {
+  float: left;
+}
+.float-right {
+  float: right;
+}
+.clear {
+  clear: both;
+}
