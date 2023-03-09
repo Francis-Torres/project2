@@ -41,13 +41,13 @@
 }
 
 /**
-  *resume css
+  *page 1- resume css
   */
 
-.resume-page-background {
+.resumebackground {
   background-color: #C3C3E5;
 }
-#resume-template{
+#resume{
   width: 75%;
   margin: 0 auto 5% auto;
   padding: 1% 1% 1% 1%;
