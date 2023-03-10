@@ -1,10 +1,31 @@
 /**
-  *navigation css
+  *For every page
+  */
+  
+.center-text {
+  text-align: center;
+}
+.float-left {
+  float: left;
+}
+.float-right {
+  float: right;
+}
+.border-bottom {
+  border-bottom: 1px solid black;
+}
+.clear {
+  clear: both;
+}
+
+/**
+  *navigation bar
   */
   
 #main-navbar {
-  overflow: visible;
-  background-color: #C3C3E5;
+  overflow: hidden;
+  background-color: #CCCCFF;
+  font-family: 'Milkshake',cursive;
 }
 #navbar-container {
   float: left;
@@ -37,7 +58,10 @@
   color: white;
 }
 #onpage {
-  text-decoration: wavy underline;
+  text-decoration: underline;
+}
+body {
+background-color: #D3D3D3
 }
 
 /**
@@ -45,31 +69,68 @@
   */
 
 .resumebackground {
-  background-color: #C3C3E5;
+  background-color: #CCCCFF;
 }
 #resume{
   width: 75%;
   margin: 0 auto 5% auto;
-  padding: 1% 1% 1% 1%;
+  padding: 2% 1% 1% 1%;
   background-color: #F5FFFA;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /**
-  *general use css
+  *page 2- Hobbies css
   */
-  
-.center-text {
-  text-align: center;
+.hobbiesbackground {
+	background-color: #FFFFE0;
 }
-.float-left {
-  float: left;
+.back1 {
+  background-color: #C4A484;
+  border-radius: 30px;
+  margin: 30px auto;
+  width: 1150px;
+  padding: 35px;
+  display: column;
+  align-items: center;
+  justify-content: center;
 }
-.float-right {
-  float: right;
+.back2 {
+  background-color: #ADD8E6;
+  border-radius: 30px;
+  margin: 30px auto;
+  width: 1150px;
+  padding: 35px;
+  display: column;
+  align-items: center;
+  justify-content: center;
 }
-.border-bottom {
-  border-bottom: 1px solid black;
-}
-.clear {
-  clear: both;
+.back3 {
+  background-color: #99C68E;
+  border-radius: 30px;
+  margin: 30px auto;
+  width: 1150px;
+  padding: 35px;
+  display: column;
+  align-items: center;
+  justify-content: center;
 }
