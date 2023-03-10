@@ -124,7 +124,7 @@ background-color: #D3D3D3
 }
 .even-columns {
 	display:flex;
-	gap: lem;
+	gap: 5;
 }
 .even-columns > *{
 	flex-basis: 100%;
@@ -134,7 +134,6 @@ background-color: #D3D3D3
   margin: 30px auto;
   width: 1150px;
   padding: 40px;
-  display: column;
   align-items: center;
   justify-content: center;
 }
@@ -143,7 +142,6 @@ background-color: #D3D3D3
   margin: 30px auto;
   width: 1150px;
   padding: 40px;
-  display: column;
   align-items: center;
   justify-content: center;
 }
@@ -152,7 +150,6 @@ background-color: #D3D3D3
   margin: 30px auto;
   width: 1150px;
   padding: 40px;
-  display: column;
   align-items: center;
   justify-content: center;
 }
