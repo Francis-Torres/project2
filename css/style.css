@@ -124,7 +124,7 @@ background-color: #D3D3D3
 }
 .even-columns {
 	display:flex;
-	gap: 50;
+	column-gap: normal;
 }
 .even-columns > *{
 	flex-basis: 100%;
